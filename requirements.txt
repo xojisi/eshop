@@ -13,7 +13,7 @@ django-guardian==1.4.9
 django-import-export==0.6.1
 django-redis==4.8.0
 django-reversion==2.0.12
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 drf-extensions==0.3.1
 et-xmlfile==1.0.1
